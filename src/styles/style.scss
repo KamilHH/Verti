@@ -1,0 +1,13 @@
+@import "variables";
+@import "mixins";
+
+
+//  adding reset
+@import "reset";
+
+// configuring layout
+@import "grid";
+// installing fonts
+@import "fonts";
+// custom styles
+@import "custom";
